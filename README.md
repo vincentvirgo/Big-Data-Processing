@@ -39,19 +39,23 @@ Various plots were generated to visualize the data and the clustering results:
 * **Box plots** were used to understand the distribution of numerical features and identify outliers.
  <img src="image/1.png" alt="Promo Menu 2"> <img src="image/2.png" alt="Promo Menu 2"> <img src="image/3.png" alt="Promo Menu 2">
 * **Bar charts** and **line charts** were created to visualize song and artist popularity trends over time.
+ <img src="image/4.png" alt="Promo Menu 2">
 * **PCA** and **Pair Plots** were used to visualize the song clusters, showing the separation and relationships between the different groups.
+<img src="image/7.png" alt="Promo Menu 2">
+<img src="image/5.png" alt="Promo Menu 2">
 
 ---
 
 ## 📊 Key Findings
 
 The analysis successfully clustered the songs into six distinct categories, each with unique characteristics and popularity metrics:
-
+<img src="image/6.png" alt="Promo Menu 2">
 * **Cluster 0: Upbeat & Joyful Dance Hits**
 * **Cluster 1: High-Energy Live Performances**
 * **Cluster 2: Intense & Brooding Rhythmic Tracks**
 * **Cluster 3: Rhythmic & Speech-Driven Grooves**
 * **Cluster 4: Atmospheric & Melancholic Instrumentals**
 * **Cluster 5: Mellow & Reflective Acoustic Pieces**
+<img src="image/8.png" alt="Promo Menu 2">
 
 Notably, the analysis of average streams revealed that **"Mellow & Reflective Acoustic Pieces" (Cluster 5)** was the most popular cluster, followed by "Intense & Brooding Rhythmic Tracks" and "Upbeat & Joyful Dance Hits."

@@ -37,6 +37,7 @@ The primary tools used for the analysis were:
 
 Various plots were generated to visualize the data and the clustering results:
 * **Box plots** were used to understand the distribution of numerical features and identify outliers.
+ <img src="image/1.png" alt="Promo Menu 2"> <img src="image/2.png" alt="Promo Menu 2"> <img src="image/3.png" alt="Promo Menu 2">
 * **Bar charts** and **line charts** were created to visualize song and artist popularity trends over time.
 * **PCA** and **Pair Plots** were used to visualize the song clusters, showing the separation and relationships between the different groups.
 
